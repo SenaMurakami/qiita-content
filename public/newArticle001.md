@@ -5,8 +5,8 @@ tags:
   - docker-compose
   - 新人プログラマ応援
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-02-02T11:15:05+09:00'
+id: 45f2dd57eabd5c3831c1
 organization_url_name: null
 slide: false
 ignorePublish: false
